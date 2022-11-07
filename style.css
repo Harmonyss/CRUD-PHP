@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    align-items: center;
+    background-color: rgba(32, 33, 36, 1) ;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+section{
+    padding: 20px;
+    border: #626262 2px solid;
+    border-radius:10% ;
+    background-color: white
+}
+
+form{
+    padding: 10px;
+}
